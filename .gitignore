@@ -1,3 +1,8 @@
 node_modules/
+
+stato.json
+membri.json
+statistiche.json
+
 .env
 .DS_Store
